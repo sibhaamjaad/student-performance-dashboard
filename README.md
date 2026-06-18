@@ -1,4 +1,4 @@
-# 📊 Student Performance Dashboard
+#  Student Performance Dashboard
 
 An interactive Excel dashboard analyzing student academic performance across departments, semesters, and gender.
 
@@ -6,23 +6,23 @@ Built as part of my data analytics learning journey as a BS FinTech student at F
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This dashboard provides a complete visual summary of 200 students' academic data including marks, attendance, grades, and department-wise performance.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ KPI Summary Cards — Total Students, Avg Marks, Avg Attendance, Pass Rate
-- 📈 Average Marks by Department (CS, DS, IT, SE, AI)
-- 👥 Student Distribution by Gender
-- 📅 Average Marks by Semester (1–8)
-- 🎛️ Interactive Slicers — filter by Department, Gender, and Semester
+-  KPI Summary Cards — Total Students, Avg Marks, Avg Attendance, Pass Rate
+-  Average Marks by Department (CS, DS, IT, SE, AI)
+-  Student Distribution by Gender
+-  Average Marks by Semester (1–8)
+-  Interactive Slicers — filter by Department, Gender, and Semester
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -31,7 +31,7 @@ This dashboard provides a complete visual summary of 200 students' academic data
 
 ---
 
-## 📁 Files
+##  Files
 
 | File | Description |
 |------|-------------|
@@ -39,7 +39,7 @@ This dashboard provides a complete visual summary of 200 students' academic data
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 **Sibha Amjad**  
 BS FinTech Student — FAST NUCES CFD Campus  
